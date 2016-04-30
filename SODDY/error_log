@@ -1,0 +1,49 @@
+[28-Aug-2013 07:45:26 America/Denver] PHP Warning:  include(portfolio.php): failed to open stream: No such file or directory in /home/pattake/public_html/tab_33i7ys8u7r.php on line 117
+[28-Aug-2013 07:45:26 America/Denver] PHP Warning:  include(portfolio.php): failed to open stream: No such file or directory in /home/pattake/public_html/tab_33i7ys8u7r.php on line 117
+[28-Aug-2013 07:45:26 America/Denver] PHP Warning:  include(): Failed opening 'portfolio.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/pattake/public_html/tab_33i7ys8u7r.php on line 117
+[28-Aug-2013 13:28:03 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pattake/public_html/expense_fc1jvs9a2o.php:15) in /home/pattake/public_html/expense_fc1jvs9a2o.php on line 17
+[13-Feb-2014 14:15:16 America/Denver] PHP Warning:  include(search.php): failed to open stream: No such file or directory in /home/pattake/public_html/index.php on line 27
+[13-Feb-2014 14:15:16 America/Denver] PHP Warning:  include(search.php): failed to open stream: No such file or directory in /home/pattake/public_html/index.php on line 27
+[13-Feb-2014 14:15:16 America/Denver] PHP Warning:  include(): Failed opening 'search.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/pattake/public_html/index.php on line 27
+[13-Feb-2014 14:15:16 America/Denver] PHP Warning:  include(home_page.php): failed to open stream: No such file or directory in /home/pattake/public_html/index.php on line 28
+[13-Feb-2014 14:15:16 America/Denver] PHP Warning:  include(home_page.php): failed to open stream: No such file or directory in /home/pattake/public_html/index.php on line 28
+[13-Feb-2014 14:15:16 America/Denver] PHP Warning:  include(): Failed opening 'home_page.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/pattake/public_html/index.php on line 28
+[13-Feb-2014 14:15:16 America/Denver] PHP Warning:  include(user_info_bar.php): failed to open stream: No such file or directory in /home/pattake/public_html/index.php on line 31
+[13-Feb-2014 14:15:16 America/Denver] PHP Warning:  include(user_info_bar.php): failed to open stream: No such file or directory in /home/pattake/public_html/index.php on line 31
+[13-Feb-2014 14:15:16 America/Denver] PHP Warning:  include(): Failed opening 'user_info_bar.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/pattake/public_html/index.php on line 31
+[13-Feb-2014 14:15:20 America/Denver] PHP Warning:  include(search.php): failed to open stream: No such file or directory in /home/pattake/public_html/index.php on line 27
+[13-Feb-2014 14:15:20 America/Denver] PHP Warning:  include(search.php): failed to open stream: No such file or directory in /home/pattake/public_html/index.php on line 27
+[13-Feb-2014 14:15:20 America/Denver] PHP Warning:  include(): Failed opening 'search.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/pattake/public_html/index.php on line 27
+[13-Feb-2014 14:15:20 America/Denver] PHP Warning:  include(home_page.php): failed to open stream: No such file or directory in /home/pattake/public_html/index.php on line 28
+[13-Feb-2014 14:15:20 America/Denver] PHP Warning:  include(home_page.php): failed to open stream: No such file or directory in /home/pattake/public_html/index.php on line 28
+[13-Feb-2014 14:15:20 America/Denver] PHP Warning:  include(): Failed opening 'home_page.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/pattake/public_html/index.php on line 28
+[13-Feb-2014 14:15:20 America/Denver] PHP Warning:  include(user_info_bar.php): failed to open stream: No such file or directory in /home/pattake/public_html/index.php on line 31
+[13-Feb-2014 14:15:20 America/Denver] PHP Warning:  include(user_info_bar.php): failed to open stream: No such file or directory in /home/pattake/public_html/index.php on line 31
+[13-Feb-2014 14:15:20 America/Denver] PHP Warning:  include(): Failed opening 'user_info_bar.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/pattake/public_html/index.php on line 31
+[13-Feb-2014 14:15:21 America/Denver] PHP Warning:  include(search.php): failed to open stream: No such file or directory in /home/pattake/public_html/index.php on line 27
+[13-Feb-2014 14:15:21 America/Denver] PHP Warning:  include(search.php): failed to open stream: No such file or directory in /home/pattake/public_html/index.php on line 27
+[13-Feb-2014 14:15:21 America/Denver] PHP Warning:  include(): Failed opening 'search.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/pattake/public_html/index.php on line 27
+[13-Feb-2014 14:15:21 America/Denver] PHP Warning:  include(home_page.php): failed to open stream: No such file or directory in /home/pattake/public_html/index.php on line 28
+[13-Feb-2014 14:15:21 America/Denver] PHP Warning:  include(home_page.php): failed to open stream: No such file or directory in /home/pattake/public_html/index.php on line 28
+[13-Feb-2014 14:15:21 America/Denver] PHP Warning:  include(): Failed opening 'home_page.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/pattake/public_html/index.php on line 28
+[13-Feb-2014 14:15:21 America/Denver] PHP Warning:  include(user_info_bar.php): failed to open stream: No such file or directory in /home/pattake/public_html/index.php on line 31
+[13-Feb-2014 14:15:21 America/Denver] PHP Warning:  include(user_info_bar.php): failed to open stream: No such file or directory in /home/pattake/public_html/index.php on line 31
+[13-Feb-2014 14:15:21 America/Denver] PHP Warning:  include(): Failed opening 'user_info_bar.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/pattake/public_html/index.php on line 31
+[13-Feb-2014 14:15:24 America/Denver] PHP Warning:  include(search.php): failed to open stream: No such file or directory in /home/pattake/public_html/index.php on line 27
+[13-Feb-2014 14:15:24 America/Denver] PHP Warning:  include(search.php): failed to open stream: No such file or directory in /home/pattake/public_html/index.php on line 27
+[13-Feb-2014 14:15:24 America/Denver] PHP Warning:  include(): Failed opening 'search.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/pattake/public_html/index.php on line 27
+[13-Feb-2014 14:15:24 America/Denver] PHP Warning:  include(home_page.php): failed to open stream: No such file or directory in /home/pattake/public_html/index.php on line 28
+[13-Feb-2014 14:15:24 America/Denver] PHP Warning:  include(home_page.php): failed to open stream: No such file or directory in /home/pattake/public_html/index.php on line 28
+[13-Feb-2014 14:15:24 America/Denver] PHP Warning:  include(): Failed opening 'home_page.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/pattake/public_html/index.php on line 28
+[13-Feb-2014 14:15:24 America/Denver] PHP Warning:  include(user_info_bar.php): failed to open stream: No such file or directory in /home/pattake/public_html/index.php on line 31
+[13-Feb-2014 14:15:24 America/Denver] PHP Warning:  include(user_info_bar.php): failed to open stream: No such file or directory in /home/pattake/public_html/index.php on line 31
+[13-Feb-2014 14:15:24 America/Denver] PHP Warning:  include(): Failed opening 'user_info_bar.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/pattake/public_html/index.php on line 31
+[13-Feb-2014 14:15:58 America/Denver] PHP Warning:  include(search.php): failed to open stream: No such file or directory in /home/pattake/public_html/index.php on line 27
+[13-Feb-2014 14:15:58 America/Denver] PHP Warning:  include(search.php): failed to open stream: No such file or directory in /home/pattake/public_html/index.php on line 27
+[13-Feb-2014 14:15:58 America/Denver] PHP Warning:  include(): Failed opening 'search.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/pattake/public_html/index.php on line 27
+[13-Feb-2014 14:15:58 America/Denver] PHP Warning:  include(home_page.php): failed to open stream: No such file or directory in /home/pattake/public_html/index.php on line 28
+[13-Feb-2014 14:15:58 America/Denver] PHP Warning:  include(home_page.php): failed to open stream: No such file or directory in /home/pattake/public_html/index.php on line 28
+[13-Feb-2014 14:15:58 America/Denver] PHP Warning:  include(): Failed opening 'home_page.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/pattake/public_html/index.php on line 28
+[13-Feb-2014 14:15:58 America/Denver] PHP Warning:  include(user_info_bar.php): failed to open stream: No such file or directory in /home/pattake/public_html/index.php on line 31
+[13-Feb-2014 14:15:58 America/Denver] PHP Warning:  include(user_info_bar.php): failed to open stream: No such file or directory in /home/pattake/public_html/index.php on line 31
+[13-Feb-2014 14:15:58 America/Denver] PHP Warning:  include(): Failed opening 'user_info_bar.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/pattake/public_html/index.php on line 31

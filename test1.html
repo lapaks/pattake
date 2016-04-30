@@ -1,0 +1,23 @@
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script language="javascript" type="text/javascript" src="jquery.js"></script>
+
+<script>
+var $txtb = $(':input.txtsum');
+$txtb.on('keyup', function() {
+    var tot = 0.0;
+    $txtb.each(function() {
+        var val = parseFloat(this.value);
+        if (!isNaN(val)) {    
+           tot += val;
+        }
+    });
+    
+    $("p").html(tot);
+});
+</script>
+
+<input type="text" id="txt1" class="txtsum"/>
+<input type="text" id="txt2" class="txtsum" />
+<input type="text" id="txt3" class="txtsum" />
+<input type="text" id="txt3" class="txtsum" />
+<p></p>

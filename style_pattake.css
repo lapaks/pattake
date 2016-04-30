@@ -1,0 +1,640 @@
+/* CSS Document */
+html {
+    position: relative;
+}
+body {
+	margin: 0;
+	padding: 0;
+	font-family: 'Open Sans', sans-serif;
+	background:url(images/header_top.gif) repeat-x top left;
+	font-weight:400;
+	font-style:normal;
+	font-size:13px;
+	color:#999;
+	background: #E51937;
+}
+#wrapper {
+	background: #fff;
+	width: 100%;
+}
+
+.wrapper {
+margin: 0 auto;
+width: 1050px;
+text-align:centre;
+}
+h1{
+	font-family:'Open Sans', sans-serif;
+	font-size:20px;
+	color:#E41836;
+	}
+
+h2{
+	font-family:'Open Sans', sans-serif;
+	font-size:15px;
+	color:#333;
+}
+h3{
+	font-family:'Open Sans', sans-serif;
+	font-size:12px;
+	color:#FFF;
+}
+h4{
+	font-family:'Open Sans', sans-serif;
+	font-size:14px;
+	color:#999;
+	padding-left:10px;
+}
+p{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 13px;
+	color: #999;
+	text-decoration: none;
+	line-height: 20px;
+}
+
+a{
+	text-decoration:none;
+	color:#E51937;
+	}
+span{
+	color:#F00;
+	}
+
+header{
+	overflow:hidden;
+	padding:5px 0px 0px 0px;
+	}
+
+#search {
+	float:right;
+	width:1050px;
+	padding-top:5px;
+	text-align:right;
+	overflow:hidden;
+	}
+#search input{
+	width:248px;
+	border-style: solid;
+	border-color:#E3E3E3;
+	border-width: 1px;
+	color:#999;
+		}
+
+#header_menu{
+	text-align: centre;
+	float: right;
+	overflow: visible;
+	height: 40px;
+	width: 800px;
+
+	}	
+
+#header_menu ul{	
+	list-style:none;
+	float:right;
+		}
+
+#header_menu li{	
+	padding:2px 20px 5px 5px;
+	display:inline-block;
+	float:left;
+}
+#header_menu a{	
+	display: block;
+	line-height:30px;
+	padding:0px 5px 0px 5px;
+	color:#fff;
+	text-decoration:none;
+	border-radius:2px;
+}
+.login_user{
+	float: right;
+	height: 25px;
+	display: block;
+	text-align: center;
+	background: #E51937;
+	color: #fff;
+	width: 220px;
+	padding: 0px 5px 5px 00px;
+	line-height: 30px;
+	border-top-left-radius: 6px;
+	border-top-right-radius: 6px;
+}
+
+
+#header_menu a:hover{	
+	background-color:#fff;
+	color:#666;
+	}
+.current{
+	background:#fff;
+	color:#000!important;
+	display:block;
+	overflow:visible;
+	}
+
+
+#logo{
+	float:left;
+	width:250px;
+	margin-top:0px;
+	margin-bottom:0px;
+	height:40px;
+	}
+#banner_head{
+	float:left;
+	width:250px;
+	margin-top:0px;
+	margin-bottom:0px;
+	}
+
+
+
+#sidebar{
+	width: 200px;
+	float: left;
+	margin-top: 0px;
+	margin-bottom: 20px;
+	background: url(images/line.png) repeat-y right;
+	overflow: hidden;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+}
+#sidebar a{
+display: block;
+height:20px;
+border-radius:2px;
+padding-left:5px;
+padding-top:5px;
+color:#666;
+text-decoration: none;
+}
+
+#sidebar a:hover{
+background-color: #E51937;
+display:block;
+color: white;
+}
+#sidebar li{
+	padding:5px;
+	text-align:left;
+	height:16px;
+	font-family: 'Open Sans', sans-serif;
+	font-style:normal;
+	font-size:13px;
+	color:#999;
+	list-style:none;
+
+}
+
+#banner{
+	width: 850px;
+	float: left;
+}
+#login{
+	padding: 70px 0px 5px 40px;
+	margin: 20px 5px 5px 0px;
+	background: url(images/login_bg.fw.png) no-repeat;
+	color: #333 !important;
+	overflow: hidden;
+	text-align: right;
+		}
+#facebook{
+	padding:70px 0px 5px 40px;
+	margin:0px 0px 5px 5px;
+	background:url(images/fb.fw.png) no-repeat;
+	color:#333 !important;
+	float:right;
+	overflow:visible;
+	width:405px;
+	text-align:right;
+		}
+#login_main{
+	padding:50px 5px 5px 40px;
+	margin:20px 5px 5px 5px;
+	background:url(images/login_bg.fw.png) no-repeat;
+	color:#333 !important;
+	float:left;
+	overflow:hidden;
+		}
+#signup
+{
+background:url(images/signup.fw.png) no-repeat;
+padding:70px 0px 5px 40px;
+margin:10px 0px 5px 5px;
+text-align:right;
+color:#333 !important;
+overflow:hidden;
+}
+
+#main{
+	overflow: hidden;
+	clear: both;
+	padding-left: 20px;
+}
+#main p{
+	font-family: 'Open Sans', sans-serif;
+	font-size:11px;
+}
+#main_conent{
+	padding: 5px 5px 5px 40px;
+	margin: 0px 5px 5px 5px;
+	color: #333 !important;
+	float: left;
+	overflow: hidden;
+	text-align: justify;
+	}
+
+#main_column1, #main_column2, #main_column3, #main_column4, #main_column5, #main_column6, #main_column7, #main_column8  {
+	width:100px;
+	float:left;
+	background:url(images/line.png) repeat-y top right;
+	text-align:center;
+	}
+
+#main_column8{
+	background:none;
+	}
+
+#copyright{
+	font-size:11px;
+	text-align:left;
+	width:1050px;
+	margin:0 auto;
+	clear:both;
+	color:#fff;
+}
+#container{
+	width: 1050px;
+	margin: 0 auto;
+	background: #fff ;
+
+}
+
+#book_image{
+	width:300px;
+	height:334px;
+	float:left;
+	padding:10px 10px 10px 35px;
+	overflow:hidden;
+}
+#book_details{
+	padding:50px 0px 0px 0px;
+	color:#666;
+	height:292px;
+	overflow:hidden;
+}
+#book_details h1{
+	font-size:20px;
+	font-size:large;
+}
+#book_details p{
+	font-size:15px;
+}
+#book_details_nav{
+	text-align:right;
+	margin-right:20px;
+	float:right;
+	width:200px;
+	
+}
+#login label {
+	padding:2px 2px 2px 2px;
+	display: block;
+	width: 190px;
+	float: left;
+}
+#signup label {
+	padding:2px 2px 2px 2px;
+	display: block;
+	width: 190px;
+	float: left;
+}
+
+
+#login input {
+	width:200px;
+	border-style: solid;
+	border-color:#E3E3E3;
+	border-width: 1px;
+	color:#999;
+	}
+
+#signup input {
+	width:200px;
+	border-style: solid;
+	border-color:#E3E3E3;
+	border-width: 1px;
+	color:#999;
+	}
+
+	
+select {
+	width:60px;
+	margin-right:140px;
+	border-style: solid;
+	border-color:#E3E3E3;
+	border-width: 1px;
+	color:#999;
+
+	}
+#about_us{
+	padding: 40px 5px 0px 40px;
+	margin: 0px 0px 0px 5px;
+	background: url(images/about_us.fw.png) no-repeat;
+	color: #333 !important;
+	float: left;
+	overflow: hidden;
+	text-align: justify;
+	}
+
+#about_us p{
+	color:#999;
+		}
+#about_us_little{
+	padding:60px 5px 0px 60px;
+	margin:20px 5px 5px 0px;
+	background:url(images/about_us.fw.png) no-repeat;
+	color:#333 !important;
+	overflow:hidden;
+	text-align:justify;
+	}
+#about_us_little p{
+	font-size:13px;
+	color:#999;
+	}
+#featured_books{
+	padding: 0px 0px 0px 40px;
+	margin: 0px 0px 5px 5px;
+	color: #fff !important;
+	overflow: hidden;
+	text-align: justify;
+	clear: both;
+
+	}
+#contact {
+	padding: 50px 0px 5px 40px;
+	margin: 0px 0px 5px 5px;
+	background: url(images/contact.fw.png) no-repeat;
+	color: #333 !important;
+	float: left;
+	overflow: hidden;
+	text-align: justify;
+	width: 280px;
+	}
+#contact_map {
+	padding: 5px 0px 5px 0px;
+	margin: 30px 0px 5px 0px;
+	color: #333 !important;
+	float: right;
+	overflow: hidden;
+	text-align: justify;
+	width: 525px;
+	}
+#banner_index{
+	margin:0 auto;
+	width:1050px;
+	}
+#three_box_footer{
+	width:1050px;
+	margin:0 auto;
+}
+#three_box_footer p{
+	color:#fff;
+	}
+#three_box_footer a{
+	color:#fff;
+	}
+#footer_box1, #footer_box2, #footer_box3{
+	text-align:left;
+	width:220px;
+	height:100px;
+	float:left;
+	color:#FFF;
+	}
+
+#main_container {
+	border:dashed; 
+	border-color:#FFF;
+	width:1050px;
+}
+
+#left_pannel{
+	width:260px; 
+	float:left;
+}
+#right_pannel{
+	width:790px; 
+	float:left;
+}
+
+footer{
+	clear:both;
+	
+	}
+
+.my_account_main_page{
+	padding:5px 0px 5px 0px;
+	width:100%;
+	top:30px;
+	left:10px;
+	position:absolute;
+	background:url(images/red_background_dot.fw.png) repeat-x bottom left;
+}
+.add_new_books{
+	padding:5px 0px 5px 0px;
+	top:30px;
+	left:10px;
+	position:absolute;
+	display:none;
+	background:url(images/red_background_dot.fw.png) repeat-x bottom left;
+}
+
+
+#books2, #borrowed2, #lend2, #followers2,  #following2{
+	padding: 0px 0px 2px 0px;
+	top: 10px;
+	left: 10px;
+	position: absolute;
+	display: none;
+	width: 850px;
+}
+
+
+#books3{
+	padding:0px 0px 2px 0px;
+	top:80px;
+	left:10px;
+	position:absolute;
+	width:600px;
+
+}
+
+#profile2{
+	padding: 0px 0px 2px 0px;
+	min-width: 850px;
+	float: left;
+	top: 10px;
+	left: 10px;
+	position: absolute;
+}
+
+#my_account_summary {
+	margin-top:20px;
+	padding:10px 10px 10px 10px;
+	width:250px;
+	height:300px;
+	float:right;
+	background-color:#E51937;
+	border-radius:20px;
+}
+#my_account_summary li {
+	color:#FFF;
+	font-size:14px;
+	line-height:2;
+}
+#my_account_summary h2 {
+	color:#FFF;
+	font-size:20px;
+	text-align:center;
+}
+#library_header{
+	position:relative;
+	display:block;	
+	width:850px;	
+		}
+
+
+#my_account_content{
+	position: relative;
+	display: block;
+	width: 850px;
+		}
+.my_account_main_page label {
+	padding:2px 2px 2px 0px;
+	width: 100px;
+	display:block;
+	float:left;
+	
+}
+
+.add_new_books label {
+	padding:2px 2px 2px 0px;
+	width: 100px;
+	float:left;
+	display:block;	
+}
+
+
+.my_account_edit {
+	padding: 5px 0px 2px 0px;
+	margin-left: 10px;
+	width: 100%;
+}
+
+#head_profile, #head_books, #head_borrowed, #head_lend, #head_followers, #head_followings{
+	width:90px;
+	padding:0px 0px 0px 20px;
+	float:left;
+	opacity:0.22;
+	background:url(images/red_background_dot.fw.png) repeat-y top right;
+	color:#E51937;
+	}
+#head_profile {
+	opacity:1;
+}
+
+
+
+table, td, tr {
+	
+	border:1px solid #FEF5F5;
+	text-align:left;
+	font-family:'Open Sans', sans-serif;
+	font-size:12px;
+	color:#666;
+	text-decoration:none;
+	line-height:20px;
+}
+
+#my_books{
+	padding: 5px 0px 5px 0px;
+	overflow: auto;
+	height: 300px;
+	background: url(images/red_background_dot.fw.png) repeat-x bottom left;
+	margin-left: 10px;
+}
+#edit_books{
+	padding: 5px 0px 5px 5px;
+	width: 500px;
+	float: left;
+	background: url(images/red_background_dot.fw.png) repeat-x bottom left;
+	top: 30px;
+	left: 10px;
+	position: absolute;
+	min-height: 400px;
+}
+
+#edit_books input{
+		width:200px;
+	border-style: solid;
+	border-color:#E3E3E3;
+	border-width: 1px;
+	color:#999;
+	float:left;
+	padding-left:3px;
+
+}
+
+#edit_books label {
+	padding:2px 2px 2px 2px;
+	width: 100px;
+	float: left;
+	clear:both;
+}
+
+#message_box{
+	width:100%;
+	padding:5px 0px 5px 0px;
+	float:left;
+	clear:both;
+	}
+.my_account_main_page input{
+	width:200px;
+	border-style: solid;
+	border-color:#E3E3E3;
+	border-width: 1px;
+	color:#999;
+	padding-left:1px;
+}
+.add_new_books input{
+	width:200px;
+	border-style: solid;
+	border-color:#E3E3E3;
+	border-width: 1px;
+	color:#999;
+	padding-left:1px;
+}
+
+.clearfix:after {
+	content: ".";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	height: 0;
+}
+ 
+.clearfix {
+	display: inline-block;
+}
+ 
+html[xmlns] .clearfix {
+	display: block;
+}
+ 
+* html .clearfix {
+	height: 1%;
+}
+
